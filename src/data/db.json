@@ -1,5 +1,11 @@
 {
-    "employees": [
-        
-    ]
+  "employees": [
+    {
+      "id": "1",
+      "name": "mohamed",
+      "doj": "2025-05-27T21:00:00.000Z",
+      "role": "manager",
+      "salary": "1200"
+    }
+  ]
 }
